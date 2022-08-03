@@ -2,3 +2,6 @@ Step 1: Order the pizza
 Step 2: Wait for the delivery
 Step 3: Answer the door
 Step 4: Pay the delivery driver
+Step 5: Open the pizza box
+Step 6: Get a plate
+Step 7: Get some ranch from the fridge
